@@ -1,0 +1,31 @@
+{
+    "InvalidData":[{
+        
+    "Name": "John Wick",
+    "Your Email": "john.com",  
+    "Subject": "*******",
+   "Your Message": "What type of courses you are offering"
+  }],
+  
+  "EmptyData":[{
+        
+     "Name": " ",
+    "Your Email": " ",  
+    "Subject": " ",
+   "Your Message": " "
+ 
+  }],
+  
+ 
+  "ValidData":[{
+
+    "Name": "John Wick",
+    "Your Email": "john@yopmail.com",  
+    "Subject": "Contact",
+   "Your Message": "What type of courses you are offering"
+
+  }]
+  
+  
+  }
+  
